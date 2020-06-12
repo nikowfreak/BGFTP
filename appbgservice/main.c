@@ -93,8 +93,9 @@ void ftpvita_init_app()
 	ftpvita_add_device("ur0:");
 	ftpvita_add_device("uma0:");
 	ftpvita_add_device("imc0:");
+	ftpvita_add_device("xmc0:");
 
-	ftpvita_add_device("os0:");
+	/*ftpvita_add_device("os0:");
 	ftpvita_add_device("pd0:");
 	ftpvita_add_device("sa0:");
 	ftpvita_add_device("tm0:");
@@ -107,7 +108,7 @@ void ftpvita_init_app()
 	
 	ftpvita_add_device("music0:");
 	ftpvita_add_device("photo0:");
-	/*ftpvita_add_device("video0:");
+	ftpvita_add_device("video0:");
 	ftpvita_add_device("cache0:");
 	ftpvita_add_device("empr0:");
 	ftpvita_add_device("book0:");*/
