@@ -9,8 +9,6 @@ Can be somewhat slow when cpu-hungry game process is running due to BGFTP proces
 
 1. Install [LowMemMode plugin](https://github.com/GrapheneCt/LowMemMode) to increase multitasking abilities. It is not required, but highly recommended.
 2. Intstall .vpk, start BGFTP application.
-3. Press X button to start BGFTP background application.
-4. Now you can use BGFTP.
 
 To disable notifications, go to Settings -> Notifications -> BGFTP.
 Don't forget to terminate BGFTP after you finished using it, otherwise you system will not switch to sleep mode.
@@ -21,9 +19,7 @@ Don't forget to terminate BGFTP after you finished using it, otherwise you syste
 2. Enlarged memory mode game is started. BGFTP can be relaunched afterwards if you have [LowMemMode plugin](https://github.com/GrapheneCt/LowMemMode) installed.
 
 # How to build
-To build this application you will need [libvita2d_sys](https://github.com/GrapheneCt/libvita2d_sys).
-
-Use DolceSDK to build application.
+Use DolceSDK to build this application.
 
 # Credits
 
